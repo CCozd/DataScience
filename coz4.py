@@ -1,4 +1,4 @@
-from tkinter import Image
+#from tkinter import Image
 import altair as alt
 import pandas as pd
 import requests
